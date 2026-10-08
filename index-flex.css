@@ -1,0 +1,26 @@
+:root{
+    --color-button:salmon;
+    --color-caption:sienna;
+    --color-h:black;
+    --color-nav:indianred;
+    --color-table:wheat;
+    --color-nav-button:palegreen;
+    --color-shadow:black;
+    --color-header-bg:lightblue;
+    --color-a-link:black;
+    --color-a-visited:black;
+    --color-a-hover:grey;
+    --color-a-active:black;
+    --color-article-button:honeydew;
+    --color-article-button-bg:darkcyan;
+    --color-article-border:tomato;
+}
+.header-nav{
+    display:flex; 
+    justify-content: space-around;
+    border-radius: 10px;
+    background-color: var(--color-header-bg);
+    border: 5px solid lemonchiffon;
+    flex-wrap: wrap;
+    align-items: center;
+}

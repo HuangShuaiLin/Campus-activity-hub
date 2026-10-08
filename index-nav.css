@@ -1,0 +1,66 @@
+.nav-td a:link{
+    text-decoration: none;
+    color:var(--color-a-link);
+}
+.nav-td a:hover{
+    text-decoration: none;
+    font-weight: bolder;
+    color:var(--color-a-hover);
+}
+.nav-td a:active{
+    text-decoration: none;
+    color:var(--color-a-active);
+}
+.nav-td a:visited{
+    text-decoration: none;
+    color:var(--color-a-visited);
+}
+
+.youjian-label:hover{
+    box-shadow: 5px 5px;
+}
+.nav-td:hover{
+    box-shadow: 5px 5px var(--color-shadow);
+}
+.nav-td{
+    border-radius:5px;
+    background-color: var(--color-nav-button);
+    text-align: center;
+    width:120px;
+    height:40px;
+    font-size:20px;
+}
+.nav-tr{
+
+}
+.nav-youjian a:link{
+    text-decoration: none;
+    color:var(--color-a-link);
+}
+.nav-youjian a:hover{
+    text-decoration: none;
+    font-weight: bolder;
+    color:var(--color-a-hover);
+}
+.nav-youjian a:active{
+    text-decoration: none;
+    color:var(--color-a-active);
+}
+.nav-youjian a:visited{
+    text-decoration: none;
+    color:var(--color-a-visited);
+}
+.nav-table{
+    text-align: center;
+    position: relative;
+    /* border:1px green solid; */
+    border-spacing: 8px;
+    position: relative;
+}
+.logo{
+    max-width: 100px;
+    max-height:70px;
+}
+.nav-h1{
+
+}

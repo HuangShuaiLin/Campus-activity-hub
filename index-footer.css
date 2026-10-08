@@ -1,0 +1,27 @@
+.index-footer{
+    /* text-align: center; */
+    display: grid;
+    grid-template-columns: ;
+    position: relative;
+    align-self: center;
+    grid-column:2 / 7; 
+    max-height: 180px;
+    grid-row: 5 / 6;
+    align-self: stretch;
+}
+.Github{
+    max-width: 100px;
+    max-height:100px;
+}
+
+.footer-span{
+    display:inline-block;
+    position: relative;
+}
+.footer-div{
+    display:flex;
+    width:200px;
+    height: 100px;
+    text-align: center;
+    flex-direction: column;
+}
